@@ -1,0 +1,27 @@
+[
+	{
+		"products": [
+			"agua",
+			"sal",
+			"mayonesa",
+			{
+				"product": 7,
+				"quantity": 2
+			},
+			{
+				"product": 2,
+				"quantity": 2
+			}
+		],
+		"id": 1
+	},
+	{
+		"products": [
+			"maiz",
+			"caldito",
+			"fideos",
+			"ARROZ"
+		],
+		"id": 2
+	}
+]
